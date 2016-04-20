@@ -1,0 +1,162 @@
+@import "bootstrap-compass";
+@import "bootstrap-variables";
+@import "bootstrap";
+
+body a:hover{text-decoration: none;
+list-style: none;}
+
+nav{
+
+
+
+    a{
+        margin-right: 20px;
+        text-decoration: none;
+        list-style:none;
+    }
+
+}
+
+.navbar-default{background-color:#B5CE00;}
+
+
+figure{
+    background-color:#f8f8f8;
+    height:380px;
+
+    img{
+        margin-top: 15px;
+    }
+}
+
+section{
+
+    .tout-article{
+       /* background-color: black;
+        height:500px;*/
+
+        border-right: 2px solid #c1c1c1;
+        margin-top: 40px;
+
+
+
+    }
+    h1{
+        font-weight: bolder;
+        font-size:20px;
+    }
+
+    article{
+        hr{
+            height: 1px;
+            background-color: #C1C1C1;
+        }
+    }
+
+
+
+    a{
+        color: black;
+    }
+    a:hover{
+        color: black;
+    }}
+
+    aside{
+        margin-top: 40px;
+        /*height: 500px;
+        background-color: black;*/
+        .en-tete{
+            background-color: #B5CE00;
+            height: 50px;
+
+            p{
+                margin-left: 10px;
+            }
+        }
+        p{
+            padding-top:10px;
+            color:white;
+
+        }
+        .description{
+            color: black;
+            font-size: 11px;
+            color:grey;
+        }
+        h1{
+            font-weight: bolder;
+        }
+        .appli{
+                margin-top: 25px;
+        }
+        .social{
+            margin-top: 40px;
+        }
+        .en-tete-id{
+            margin-top: 20px;
+            background-color: #B5CE00;
+            height: 50px;
+             margin-bottom: 40px;
+            p{
+                margin-left: 10px;
+            }
+        }
+        .login{
+            color: black;
+        }
+        .input{
+            margin-top: 20px;
+        }
+        .password{
+            margin-top: 10px;
+        }
+        .remember{
+
+            p{ color:black;}
+        }
+        .remembercheck{
+            margin-top: 15px;
+        }
+        .aide{
+            color: black;
+        }
+
+a{
+        color: black;
+    }
+    a:hover{
+        color: black;
+    }
+
+
+
+        }
+
+
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > , .navbar-default .navbar-nav > .active > a:focus {
+    color: #555;
+    background-color: #7E8A29;
+}
+.navbar-default .navbar-nav > .active > a{
+    background-color: transparent;
+    color: white;
+}
+
+.narbar-default .navbar-nav > .active > a:hover{
+    color: #7E8A29;
+}
+
+
+div .loginbar{
+    margin-top: 20px;
+}
+
+h2{
+  font-size:18px;
+}
+
+.cheking{
+   margin-top: 15px;
+}
